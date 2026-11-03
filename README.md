@@ -40,7 +40,28 @@ Built an end-to-end ML pipeline for challenging 3D image segmentation, from raw 
 
 ---
 
-### 02 · Semiconductor Data & Automation
+### 02 · Oral Motion Recognition
+**Computer Vision · Feature Engineering · Real-Time Python**
+
+Extracted a focused, landmark-based mouth-opening recognition pipeline from an interactive oral rehabilitation prototype, emphasizing interpretable motion features and real-time processing.
+
+| | |
+|---|---|
+| **Challenge** | Translate a facial rehabilitation movement into a measurable recognition task |
+| **Engineering** | **Webcam → Lip Landmarks → Geometric Ratio → Rule-Based Classification** |
+| **Implementation** | Python · OpenCV · `face_recognition` · Euclidean distance |
+| **Output** | Live mouth-open/closed feedback based on facial geometry |
+
+**Highlights**
+- Extracted lip landmark coordinates from webcam frames to calculate mouth height and width
+- Implemented an interpretable, threshold-based mouth-opening classifier
+- Simplified a legacy GUI prototype into a minimal real-time computer vision code example
+
+**[View Project →](https://github.com/ChengYuChing/AI-Oral-Rehabilitation-System)**
+
+---
+
+### 03 · Semiconductor Data & Automation
 **Python · Data Engineering · Workflow Automation**
 
 Built engineering tools to turn fragmented equipment records into structured, reusable workflows for semiconductor maintenance operations.
