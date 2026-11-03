@@ -1,62 +1,78 @@
-# Hi, I'm Yu-Ching Cheng
+# Sunny Yu-Ching Cheng
 
-**Machine Learning · Computer Vision · Graph Learning · Applied AI**
+### ML Engineer building end-to-end AI systems — from raw data to validated models.
 
-I'm an ML / Computer Vision engineer and researcher with hands-on experience in **3D semantic segmentation, graph neural networks, graph signal processing, and experimental machine learning**.
+I work at the intersection of **machine learning, computer vision, and data engineering**, with experience turning complex real-world data into structured pipelines, model experiments, and automated engineering workflows.
 
-My master's research focused on developing and evaluating deep learning methods for challenging 3D imaging problems. I worked across the full research workflow — from data preprocessing and model design to controlled experiments, statistical evaluation, and result interpretation.
+**34.9K images analyzed** · **7 model variants evaluated** · **10 years of equipment data processed** · **85% manual work reduced**
 
-## Technical Focus
+---
 
-- Deep Learning & Computer Vision
-- 3D / Volumetric Semantic Segmentation
-- Graph Neural Networks (GNNs)
-- Graph Signal Processing
-- Experimental Design & Model Evaluation
-- Image Processing & Data Pipelines
+## Selected Engineering Work
 
-## Featured Projects
+### 01 · 3D Medical Image Segmentation
+**Computer Vision · 3D Deep Learning · Graph Learning**
 
-### Graph Structural Filtering for 3D Segmentation
-A flagship research project combining **3D U-Net, graph neural networks, and graph spectral filtering** for long-range structural modeling in volumetric image segmentation.
+Built an end-to-end ML pipeline for challenging 3D image segmentation, from raw imaging data and preprocessing to architecture design and vessel-level validation.
 
-**Technical highlights**
-- 3D semantic segmentation
-- KNN graph construction
-- Graph convolution
-- Graph Laplacian & Graph Fourier Transform
-- Learnable frequency reweighting
-- Multi-model benchmarking and statistical evaluation
+| | |
+|---|---|
+| **Challenge** | Weak signals, artifacts, complex boundaries, and limited local context |
+| **Engineering** | **3D U-Net → GCN → Graph Structural Filtering** |
+| **Scale** | **34,954 frames · 138 patients · 7 model variants · 134 test vessels** |
+| **Result** | Best mean Dice **0.834** · IoU **0.703** |
 
-> Repository in progress.
+**Highlights**
+- Built a standardized **256×256×8** 3D data pipeline from raw imaging data and labels
+- Converted CNN features into a compact **128-node KNN graph** for long-range feature interaction
+- Developed **Graph Structural Filtering** using graph-frequency decomposition and learnable reweighting
+- Designed repeated, controlled experiments to separate architecture effects from data-split variation
 
-### OCT Image Processing Pipeline
-An image-processing and volumetric data preparation pipeline covering coordinate transformation, artifact handling, image enhancement, augmentation, and 3D volume construction.
+**[View Project →](https://github.com/ChengYuChing/3d-medical-image-segmentation)**
 
-> Repository in progress.
+---
 
-## Tools & Technologies
+### 02 · Semiconductor Data & Automation
+**Python · Data Engineering · Workflow Automation**
 
-**Programming**  
-Python · MATLAB · SQL
+Built internal engineering tools to turn fragmented equipment records into structured, reusable workflows for semiconductor maintenance operations.
 
-**Machine Learning / Deep Learning**  
-TensorFlow · Keras · NumPy · Pandas · Scikit-learn
+| | |
+|---|---|
+| **Data Pipeline** | Integrated **10 years of equipment health-check and maintenance records across 10 systems** |
+| **Automation** | Automated data extraction, cleaning, integration, and reporting |
+| **Scheduling** | Built a Python tool for maintenance planning and multi-source data integration |
+| **Impact** | Reduced manual processing by **85%** and scheduling time by **30%** |
 
-**Computer Vision / Research**  
-3D CNN · U-Net · Attention · GNN · Graph Signal Processing · Statistical Analysis
+---
 
-**Development**  
-Git · GitHub · Jupyter · LaTeX
+## How I Approach Engineering Problems
 
-## Current Goal
+| 01 · Structure | 02 · Build | 03 · Validate |
+|---|---|---|
+| Turn messy data and domain requirements into a clear system definition | Design pipelines, models, and automation around the actual bottleneck | Use controlled experiments and measurable outcomes to test whether the solution works |
 
-I'm currently building a portfolio around **Machine Learning Engineering, Computer Vision, Applied AI, and Applied Scientist** roles, with an emphasis on translating research ideas into clean, reproducible ML projects.
+This is the approach I use across both **ML research and real-world engineering workflows**.
+
+---
+
+## Technical Toolkit
+
+**Machine Learning**  
+Python · TensorFlow · Keras · Scikit-learn · 3D CNN · U-Net · GNN
+
+**Data & Engineering**  
+Pandas · NumPy · SQL · Data Pipelines · Workflow Automation · Git
+
+**Computer Vision & Graph Learning**  
+Image Processing · 3D Segmentation · KNN Graph · GraphConv · Graph Fourier Transform
+
+---
 
 ## Education
 
 **National Taiwan University**  
-M.S. in Biomedical Engineering, 2026
+M.S. Biomedical Engineering · 2026
 
 **National Cheng Kung University**  
-B.S. in Biomedical Engineering, 2024
+B.S. Biomedical Engineering · 2024
