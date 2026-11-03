@@ -6,9 +6,11 @@ I build **end-to-end ML and data systems** — turning complex real-world data i
 
 **34.9K images analyzed** · **7 model variants evaluated** · **10 years of equipment data processed** · **85% manual work reduced**
 
+📫 sunlilighty@gmail.com  
 🎓 **National Taiwan University** — M.S. Biomedical Engineering  
 🏢 **ASML** — Customer Support Intern · Python / Data Automation  
-🏢 **BCG** — Strategy Consulting · AI Commercialization
+🏢 **BCG** — Strategy Consulting (SCAP) Project Member · AI Commercialization  
+🎯 Seeking opportunities in **Software Engineering, Machine Learning Engineering, and Consulting**.
 
 ---
 
