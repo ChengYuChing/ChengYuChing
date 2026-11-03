@@ -4,10 +4,12 @@
 
 I build **end-to-end ML and data systems** — turning complex real-world data into structured pipelines, model experiments, and automated engineering workflows.
 
-**34.9K images analyzed** · **7 model variants evaluated** · **10 years of equipment data processed** · **85% manual work reduced**
+**34.9K imaging frames processed** · **7 model variants evaluated** · **10 years of equipment data processed** · **85% manual work reduced**
 
 📫 sunlilighty@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sunny-yuching/)  
 🎓 **National Taiwan University** — M.S. Biomedical Engineering  
+🎓 **National Cheng Kung University** — B.S. Biomedical Engineering  
 🏢 **ASML** — Customer Support Intern · Python / Data Automation  
 🏢 **BCG** — Strategy Consulting (SCAP) Project Member · AI Commercialization  
 🎯 Seeking opportunities in **Software Engineering, Machine Learning Engineering, and Consulting**.
@@ -54,24 +56,15 @@ Built engineering tools to turn fragmented equipment records into structured, re
 
 ## Technical Toolkit
 
-**Machine Learning & Computer Vision**  
-Python · TensorFlow · Keras · Scikit-learn · 3D CNN · U-Net · GNN
+**ML & Computer Vision**  
+TensorFlow · Keras · Scikit-learn · 3D CNN · U-Net · Image Segmentation
 
 **Data & Engineering**  
-Pandas · NumPy · SQL · Data Pipelines · Workflow Automation · Git
+Python · SQL · Pandas · NumPy · Data Pipelines · Workflow Automation · Git
 
-**Graph Learning & Image Processing**  
-KNN Graph · GraphConv · Graph Fourier Transform · Image Processing · 3D Segmentation
-
-**Tools**  
-GitHub · Jupyter · MATLAB · LaTeX
+**Graph Learning**  
+GNN · KNN Graph · GraphConv · Graph Laplacian · Graph Fourier Transform
 
 ---
 
-## Education
-
-**National Taiwan University**  
-M.S. in Biomedical Engineering · 2026
-
-**National Cheng Kung University**  
-B.S. in Biomedical Engineering · 2024
+> **Professional-work scope:** Professional experience is described using sanitized engineering summaries only. No proprietary code, internal data, or confidential employer materials are published.
