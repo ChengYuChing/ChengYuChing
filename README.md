@@ -21,7 +21,7 @@ I work at the intersection of **engineering, data, and business**, building prac
 
 **Deep Learning · Computer Vision · Graph Learning**
 
-| | |
+| Category | Description |
 |---|---|
 | **Challenge** | Segment complex medical images despite noise, artifacts, and weak boundaries. |
 | **Engineering Approach** | Built a 3D preprocessing and model evaluation pipeline; compared **3D U-Net, graph modeling, and Graph Structural Filtering**. |
@@ -33,7 +33,7 @@ I work at the intersection of **engineering, data, and business**, building prac
 
 **Computer Vision · Feature Engineering · Real-Time Python**
 
-| | |
+| Category | Description |
 |---|---|
 | **Challenge** | Convert mouth movement into measurable signals for real-time recognition. |
 | **Engineering Approach** | Extracted lip landmarks from webcam frames and applied an interpretable geometric threshold. |
@@ -45,7 +45,7 @@ I work at the intersection of **engineering, data, and business**, building prac
 
 **Python Automation · Text Processing · Data Engineering**
 
-| | |
+| Category | Description |
 |---|---|
 | **Challenge** | Maintenance history is difficult to review when records are scattered across unstructured text logs. |
 | **Engineering Approach** | Used text matching, date extraction, component classification, and data cleaning to structure health check mentions. |
