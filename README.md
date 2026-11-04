@@ -1,13 +1,15 @@
-# Hi, I'm Sunny Cheng 👋
+# Sunny Yu-Ching Cheng
 
-I'm a biomedical engineering graduate with experience in **machine learning, computer vision, and Python automation**. I enjoy turning complex data and real-world problems into practical engineering solutions.
+I work at the intersection of **engineering, data, and business**, building practical solutions through machine learning, automation, and structured problem-solving.
 
 ### A Little About Me
 
-- 🎓 **Education:** M.S. in Biomedical Engineering, National Taiwan University · B.S. in Biomedical Engineering, National Cheng Kung University
-- 💼 **Experience:** ASML Customer Support (Python automation) · BCG SCAP (strategy & AI commercialization)
+- 🎓 **Education:**
+  - M.S. in Biomedical Engineering, National Taiwan University
+  - B.S. in Biomedical Engineering, National Cheng Kung University
+- 💼 **Experience:** ASML Customer Support · BCG SCAP (strategy & AI commercialization)
 - 💻 **What I Work On:** Machine Learning · Computer Vision · Data Processing & Automation
-- 🎯 **Career Interests:** Software Engineering · Machine Learning Engineering · Data Engineering
+- 🎯 **Career Interests:** Software Engineering · Machine Learning Engineering · Data Engineering · Consulting
 
 📫 **[Email](mailto:sunlilighty@gmail.com)** · 🔗 **[LinkedIn](https://www.linkedin.com/in/sunny-yuching/)**
 
