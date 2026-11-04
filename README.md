@@ -65,7 +65,6 @@ I work at the intersection of **engineering, data, and business**, building prac
 | **Equipment Data Automation** | Worked with **10 years of equipment records across 10 systems** and reduced manual processing time by **85%** in a data-processing workflow. |
 | **Maintenance Planning** | Developed a separate Python scheduling tool that reduced the time from customer request to maintenance entry by **30%**. |
 
-*The operational impact figures reflect distinct work initiatives and are not attributed solely to the published logbook-parser overview.*
 
 ---
 
