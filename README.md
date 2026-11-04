@@ -51,7 +51,7 @@ I work at the intersection of **engineering, data, and business**, building prac
 | **Engineering Approach** | Used text matching, date extraction, component classification, and data cleaning to structure health check mentions. |
 | **Outcome** | Created a repeatable workflow that organizes maintenance records into reviewable Excel data. |
 
-**[Explore Project Overview →](https://github.com/ChengYuChing/ASML-Equipment-Maintenance-Data-Automation)**
+**[Explore Project →](https://github.com/ChengYuChing/ASML-Equipment-Maintenance-Data-Automation)**
 
 *The ASML repository is a high-level project overview only; no implementation files or internal equipment data are presented in the current version.*
 
