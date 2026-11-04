@@ -5,13 +5,13 @@ I work at the intersection of **engineering, data, and business**, building prac
 ### A Little About Me
 
 - 🎓 **Education:**
- - M.S. in Biomedical Engineering, National Taiwan University
- - B.S. in Biomedical Engineering, National Cheng Kung University
+  - M.S. in Biomedical Engineering, National Taiwan University
+  - B.S. in Biomedical Engineering, National Cheng Kung University
 - 💼 **Experience:** ASML Customer Support · BCG SCAP (strategy & AI commercialization)
-- **What I Work On:** Machine Learning · Computer Vision · Data Processing & Automation
+- 💻 **What I Work On:** Machine Learning · Computer Vision · Data Processing & Automation
 - 🎯 **Career Interests:** Software Engineering · Machine Learning Engineering · Data Engineering · Consulting
 
-📫 **[Email](mailto:sunlilighty@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/sunny-yuching/)**
+📫 **[Email](mailto:sunlilighty@gmail.com)** · 🔗 **[LinkedIn](https://www.linkedin.com/in/sunny-yuching/)**
 
 ---
 
