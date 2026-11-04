@@ -2,90 +2,82 @@
 
 **Machine Learning Engineering · Computer Vision · Data & AI Systems**
 
-I build **end-to-end ML and data systems** — turning complex real-world data into structured pipelines, model experiments, and automated engineering workflows.
+I build practical ML and data solutions — from processing complex datasets and evaluating models to automating repetitive engineering workflows.
 
-**34.9K imaging frames processed** · **7 model variants evaluated** · **10 years of equipment data processed** · **85% manual work reduced**
+**34,954 medical images** · **7 model variants** · **10 years of equipment records** · **85% less manual processing in an automation workflow**
 
-📫 sunlilighty@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sunny-yuching/)  
-🎓 **National Taiwan University** — M.S. Biomedical Engineering  
-🎓 **National Cheng Kung University** — B.S. Biomedical Engineering  
-🏢 **ASML** — Customer Support Intern · Python / Data Automation  
-🏢 **BCG** — Strategy Consulting (SCAP) Project Member · AI Commercialization  
-🎯 Seeking opportunities in **Software Engineering, Machine Learning Engineering, and Consulting**.
+**Education:** M.S. Biomedical Engineering, National Taiwan University · B.S. Biomedical Engineering, National Cheng Kung University  
+**Experience:** ASML — Customer Support & Python Automation · BCG SCAP — Strategy & AI Commercialization  
+**Interests:** Software Engineering · Machine Learning Engineering · Data Engineering
+
+[LinkedIn](https://www.linkedin.com/in/sunny-yuching/) · [Email](mailto:sunlilighty@gmail.com)
 
 ---
 
-## Featured Engineering Work
+## Featured Engineering Projects
 
-### 01 · 3D Medical Image Segmentation
-**Computer Vision · 3D Deep Learning · Graph Learning**
+### 01 — 3D Deep Learning for Medical Image Segmentation
 
-Built an end-to-end ML pipeline for challenging 3D image segmentation, from raw imaging data and preprocessing to architecture design and vessel-level validation.
+**Deep Learning · Computer Vision · Graph Learning**
 
 | | |
 |---|---|
-| **Challenge** | Weak signals, artifacts, complex boundaries, and limited local context |
-| **Engineering** | **3D U-Net → GCN → Graph Structural Filtering** |
-| **Scale** | **34,954 frames · 138 patients · 7 model variants · 134 test vessels** |
-| **Result** | Best mean Dice **0.834** · IoU **0.703** |
+| **Challenge** | Segment complex medical images despite noise, artifacts, and weak boundaries. |
+| **Engineering Approach** | Built a 3D preprocessing and model evaluation pipeline; compared **3D U-Net, graph modeling, and Graph Structural Filtering**. |
+| **Outcome** | Evaluated **7 model variants** on **34,954 frames**; best mean **Dice 0.834** and **IoU 0.703**. |
 
-**Highlights**
-- Built a standardized **256×256×8** 3D data pipeline from raw imaging data and labels
-- Converted CNN features into a compact **128-node KNN graph** for long-range feature interaction
-- Developed **Graph Structural Filtering** using graph-frequency decomposition and learnable reweighting
-- Designed repeated, controlled experiments to separate architecture effects from data-split variation
+**[Explore Project →](https://github.com/ChengYuChing/3D-Deep-Learning-Medical-AI-Image-Segmentation)**
 
-**[View Project →](https://github.com/ChengYuChing/3d-medical-image-segmentation)**
+### 02 — AI-Based Oral Rehabilitation System
 
----
-
-### 02 · Oral Motion Recognition
 **Computer Vision · Feature Engineering · Real-Time Python**
 
-Extracted a focused, landmark-based mouth-opening recognition pipeline from an interactive oral rehabilitation prototype, emphasizing interpretable motion features and real-time processing.
+| | |
+|---|---|
+| **Challenge** | Convert mouth movement into measurable signals for real-time recognition. |
+| **Engineering Approach** | Extracted lip landmarks from webcam frames and applied an interpretable geometric threshold. |
+| **Outcome** | Built a focused **real-time mouth-open/closed recognition** example with live feedback. |
+
+**[Explore Project →](https://github.com/ChengYuChing/AI-Oral-Rehabilitation-System)**
+
+### 03 — ASML: Equipment Maintenance Data Automation
+
+**Python Automation · Text Processing · Data Engineering**
 
 | | |
 |---|---|
-| **Challenge** | Translate a facial rehabilitation movement into a measurable recognition task |
-| **Engineering** | **Webcam → Lip Landmarks → Geometric Ratio → Rule-Based Classification** |
-| **Implementation** | Python · OpenCV · `face_recognition` · Euclidean distance |
-| **Output** | Live mouth-open/closed feedback based on facial geometry |
+| **Challenge** | Maintenance history is difficult to review when records are scattered across unstructured text logs. |
+| **Engineering Approach** | Used text matching, date extraction, component classification, and data cleaning to structure health check mentions. |
+| **Outcome** | Created a repeatable workflow that organizes maintenance records into reviewable Excel data. |
 
-**Highlights**
-- Extracted lip landmark coordinates from webcam frames to calculate mouth height and width
-- Implemented an interpretable, threshold-based mouth-opening classifier
-- Simplified a legacy GUI prototype into a minimal real-time computer vision code example
+**[Explore Project Overview →](https://github.com/ChengYuChing/ASML-Equipment-Maintenance-Data-Automation)**
 
-**[View Project →](https://github.com/ChengYuChing/AI-Oral-Rehabilitation-System)**
+*The ASML repository is a high-level project overview only; no implementation files or internal equipment data are presented in the current version.*
 
 ---
 
-### 03 · Semiconductor Data & Automation
-**Python · Data Engineering · Workflow Automation**
+## Selected Engineering Impact
 
-Built engineering tools to turn fragmented equipment records into structured, reusable workflows for semiconductor maintenance operations.
-
-| | |
+| Area | Results |
 |---|---|
-| **Data Pipeline** | Integrated **10 years of equipment health-check and maintenance records across 10 systems** |
-| **Automation** | Automated data extraction, cleaning, integration, and reporting |
-| **Scheduling** | Built a Python tool for maintenance planning and multi-source data integration |
-| **Impact** | Reduced manual processing by **85%** and scheduling time by **30%** |
+| **ML Research** | Processed **34,954 image frames** and evaluated **7 model variants** for medical image segmentation. |
+| **Equipment Data Automation** | Worked with **10 years of equipment records across 10 systems** and reduced manual processing time by **85%** in a data-processing workflow. |
+| **Maintenance Planning** | Developed a separate Python scheduling tool that reduced the time from customer request to maintenance entry by **30%**. |
+
+*The operational impact figures reflect distinct work initiatives and are not attributed solely to the published logbook-parser overview.*
 
 ---
 
 ## Technical Toolkit
 
-**ML & Computer Vision**  
-TensorFlow · Keras · Scikit-learn · 3D CNN · U-Net · Image Segmentation
-
-**Data & Engineering**  
-Python · SQL · Pandas · NumPy · Data Pipelines · Workflow Automation · Git
-
-**Graph Learning**  
-GNN · KNN Graph · GraphConv · Graph Laplacian · Graph Fourier Transform
+| Area | Skills |
+|---|---|
+| **Programming & Data** | Python · SQL · Pandas · NumPy · Git |
+| **Machine Learning** | TensorFlow · Keras · Scikit-learn · 3D CNN · U-Net |
+| **Computer Vision** | OpenCV · Image Processing · Feature Engineering |
+| **Graph Learning** | GNN · GCN · Graph Fourier Transform |
+| **Engineering** | Data Pipelines · Workflow Automation · Model Evaluation |
 
 ---
 
-> **Professional-work scope:** Professional experience is described using sanitized engineering summaries only. No proprietary code, internal data, or confidential employer materials are published.
+> **Professional-work scope:** Professional projects are described at a high level. No proprietary source code, confidential employer data, or internal equipment records are included in the current portfolio materials.
