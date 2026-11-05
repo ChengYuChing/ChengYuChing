@@ -7,7 +7,7 @@ I work at the intersection of **engineering, data, and business**, building prac
 - 🎓 **Education:**
   - M.S. in Biomedical Engineering, National Taiwan University
   - B.S. in Biomedical Engineering, National Cheng Kung University
-- 💼 **Experience:** ASML Customer Support · BCG SCAP (strategy & AI commercialization)
+- 💼 **Experience:** ASML Customer Support Intern · BCG SCAP Member (strategy & AI commercialization)
 - 💻 **What I Work On:** Machine Learning · Computer Vision · Data Processing & Automation
 - 🎯 **Career Interests:** Software Engineering · Machine Learning Engineering · Data Engineering · Consulting
 
